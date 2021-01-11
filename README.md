@@ -278,8 +278,8 @@ __double underscores__
 html에서의 `table` 태그와 동일하며 다음과 같이 사용한다.
 | Column1 | Column2 |
 | ------- | ------- |
-| Row1    | Row2    |
-| Row1    | Row2    |
+| Row1    | Row1    |
+| Row2    | Row2    |
 ...
 ```
 
@@ -287,11 +287,11 @@ html에서의 `table` 태그와 동일하며 다음과 같이 사용한다.
 ```
 | Column1 | Column2 |
 | ------- | ------- |
-| Row1    | Row2    |
-| Row1    | Row2    |
+| Row1    | Row1    |
+| Row2    | Row2    |
 ```
 
 | Column1 | Column2 |
 | ------- | ------- |
-| Row1    | Row2    |
-| Row1    | Row2    |
+| Row1    | Row1    |
+| Row2    | Row2    |
